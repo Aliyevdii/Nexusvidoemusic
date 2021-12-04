@@ -53,5 +53,5 @@ Heroku, Avrupa (bot stabil hale getirmek için yardımcı olacaktır) uygulama �
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=//github.com/Aliyevdii/Nexusvidoemusic)
 
-## Destek ve Güncellemeler 🎑
-<a href="https://t.me/Nexus_Bots"><ımg src="https://img.shields.io/badge/join-group%20support-blue.svg?style=for-the-badge&logo=telegram"><bir/> a <a href="https://t.me/Nexus_Bots"><ımg src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+## Support & Updates 🎑
+<a href="https://t.me/Nexus_Bots"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Nexus_Bots"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
