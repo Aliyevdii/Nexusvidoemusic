@@ -52,6 +52,6 @@
 Heroku, Avrupa (bot stabil hale getirmek için yardımcı olacaktır) uygulama ülke Değiştirmek bu bot ev sahibi için kolay bir şekilde dağıtın.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=//github.com/Aliyevdii/Nexusvidoemusic)
-
+.
 ## Support & Updates 🎑
 <a href="https://t.me/Nexus_Bots"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Nexus_Bots"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
